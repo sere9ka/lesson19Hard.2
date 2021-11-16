@@ -1,0 +1,12 @@
+body {
+    font-family: Arial sans-serif;
+}
+ul {
+    list-style-type: none
+}
+.img {
+    width: 100px;
+    position: absolute;
+    top: 500px;
+    left: 0px;
+}
