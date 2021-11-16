@@ -21,7 +21,6 @@ const flyAnimte = () => {
     
     if (count < 500) { 
         windowImg.style.left = count * 3 + 'px'
-        console.log(count);
     } else {
         cancelAnimationFrame(idInterval)
     }
